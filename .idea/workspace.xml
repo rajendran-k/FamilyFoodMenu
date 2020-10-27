@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b048480-c2d5-4e04-aad9-35cefb6379ed" name="Default Changelist" comment="" />
+    <list default="true" id="9b048480-c2d5-4e04-aad9-35cefb6379ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.data/mdata/WiredTiger" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/WiredTiger.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/WiredTiger.turtle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/WiredTiger.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/WiredTigerHS.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/_mdb_catalog.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/collection-0-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/collection-2-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/collection-4-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T03-12-40Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T03-22-41Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T03-37-17Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T03-40-02Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T04-02-39Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T05-03-50Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/diagnostic.data/metrics.2020-10-26T07-01-01Z-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/index-1-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/index-3-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/index-5-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/index-6-6103442636826917421.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/journal/WiredTigerLog.0000000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/journal/WiredTigerPreplog.0000000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/journal/WiredTigerPreplog.0000000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/mongod.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/sizeStorer.wt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.data/mdata/storage.bson" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +126,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -118,6 +148,7 @@
     <option name="width" value="3870" />
     <option name="height" value="2097" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,15 +241,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24985163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24985163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39975095" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39975095" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
